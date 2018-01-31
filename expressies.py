@@ -1,3 +1,6 @@
 hoog = 5
-laag = 2
-print(laag < hoog)
+laag = 1
+gemiddeld = 3
+
+if(hoog == laag):
+    print ('hoog staat gelijk aan laag')
